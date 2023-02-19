@@ -1,0 +1,17 @@
+C:\Users\Reza\source\repos\Framework-Based-Programming-2023\Kalkulator-dotNet\Kalkulator-dotNet\bin\Debug\net6.0-windows\Kalkulator-dotNet.exe
+C:\Users\Reza\source\repos\Framework-Based-Programming-2023\Kalkulator-dotNet\Kalkulator-dotNet\bin\Debug\net6.0-windows\Kalkulator-dotNet.deps.json
+C:\Users\Reza\source\repos\Framework-Based-Programming-2023\Kalkulator-dotNet\Kalkulator-dotNet\bin\Debug\net6.0-windows\Kalkulator-dotNet.runtimeconfig.json
+C:\Users\Reza\source\repos\Framework-Based-Programming-2023\Kalkulator-dotNet\Kalkulator-dotNet\bin\Debug\net6.0-windows\Kalkulator-dotNet.dll
+C:\Users\Reza\source\repos\Framework-Based-Programming-2023\Kalkulator-dotNet\Kalkulator-dotNet\bin\Debug\net6.0-windows\Kalkulator-dotNet.pdb
+C:\Users\Reza\source\repos\Framework-Based-Programming-2023\Kalkulator-dotNet\Kalkulator-dotNet\obj\Debug\net6.0-windows\Kalkulator-dotNet.csproj.AssemblyReference.cache
+C:\Users\Reza\source\repos\Framework-Based-Programming-2023\Kalkulator-dotNet\Kalkulator-dotNet\obj\Debug\net6.0-windows\Kalkulator_dotNet.Form1.resources
+C:\Users\Reza\source\repos\Framework-Based-Programming-2023\Kalkulator-dotNet\Kalkulator-dotNet\obj\Debug\net6.0-windows\Kalkulator-dotNet.csproj.GenerateResource.cache
+C:\Users\Reza\source\repos\Framework-Based-Programming-2023\Kalkulator-dotNet\Kalkulator-dotNet\obj\Debug\net6.0-windows\Kalkulator-dotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reza\source\repos\Framework-Based-Programming-2023\Kalkulator-dotNet\Kalkulator-dotNet\obj\Debug\net6.0-windows\Kalkulator-dotNet.AssemblyInfoInputs.cache
+C:\Users\Reza\source\repos\Framework-Based-Programming-2023\Kalkulator-dotNet\Kalkulator-dotNet\obj\Debug\net6.0-windows\Kalkulator-dotNet.AssemblyInfo.cs
+C:\Users\Reza\source\repos\Framework-Based-Programming-2023\Kalkulator-dotNet\Kalkulator-dotNet\obj\Debug\net6.0-windows\Kalkulator-dotNet.csproj.CoreCompileInputs.cache
+C:\Users\Reza\source\repos\Framework-Based-Programming-2023\Kalkulator-dotNet\Kalkulator-dotNet\obj\Debug\net6.0-windows\Kalkulator-dotNet.dll
+C:\Users\Reza\source\repos\Framework-Based-Programming-2023\Kalkulator-dotNet\Kalkulator-dotNet\obj\Debug\net6.0-windows\refint\Kalkulator-dotNet.dll
+C:\Users\Reza\source\repos\Framework-Based-Programming-2023\Kalkulator-dotNet\Kalkulator-dotNet\obj\Debug\net6.0-windows\Kalkulator-dotNet.pdb
+C:\Users\Reza\source\repos\Framework-Based-Programming-2023\Kalkulator-dotNet\Kalkulator-dotNet\obj\Debug\net6.0-windows\Kalkulator-dotNet.genruntimeconfig.cache
+C:\Users\Reza\source\repos\Framework-Based-Programming-2023\Kalkulator-dotNet\Kalkulator-dotNet\obj\Debug\net6.0-windows\ref\Kalkulator-dotNet.dll
